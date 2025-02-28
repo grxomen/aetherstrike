@@ -1,0 +1,13 @@
+{
+    "prefix": "^",
+    "intents": {
+        "messages": true,
+        "voice_states": true,
+        "guilds": true,
+        "members": true
+    },
+    "role_xp_multipliers": {
+        "VIP": 1.5,
+        "XP Boost": 2.0
+    }
+}
